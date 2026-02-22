@@ -58,10 +58,10 @@
 }
 
 .section-1 {
-    height: 350px;
+    height: 390px;
     background-color: #f3f3f6;
     display: flex;
-    gap: 20px;
+    gap: 25px;
     justify-content: center;
     flex-direction: column;
     align-items: center;
@@ -71,16 +71,16 @@
 
 .section-1 span:nth-child(1) {
     font-size: 18px;
-    color: #0c276c;
+    color: #003087;
     font-weight: 800;
 }
 
 .section-1 span:nth-child(2) {
-    font-size: 88px;
+    font-size: 77px;
     color: #001c64;
     font-weight: 900;
     text-align: center;
-    line-height: 88px;
+    line-height: 77px;
 }
 
 @media (max-width: 1000px) {
