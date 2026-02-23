@@ -83,7 +83,18 @@
     line-height: 77px;
 }
 
-@media (max-width: 1000px) {
+.section-2 {
+    padding: 0px 10px;
+}
+
+.section-2 img {
+    width: 1300px;
+    display: block;
+    margin: 0px auto;
+    overflow: hidden;
+}
+
+@media (max-width: 1200px) {
     .first span {
         display: none;
     }
@@ -103,8 +114,7 @@
     }
 
     .section-1 {
-        padding: 0px 20px;
-        /* gap: 20px; */
+        padding: 0px 20px
     }
 
     .section-1 span:nth-child(1) {
@@ -114,5 +124,9 @@
     .section-1 span:nth-child(2) {
         font-size: 40px;
         line-height: 48px;
+    }
+
+    .section-2 img {
+        width: 350px;
     }
 }
