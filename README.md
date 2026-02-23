@@ -50,5 +50,3 @@ Desktop | ≥ 1200px |
 - Rounded UI components
 
 ---
-
-## 📂 Project Structure
